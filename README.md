@@ -65,7 +65,7 @@ Performance tracking of sales managers and customer accounts.
 
 Actionable insights to optimize product mix, target high-value customers, and allocate resources effectively.
 
-## Repository Structure
+## Project Structure and Reporting
 📂 PowerBI-Sales-Dashboard
  ┣ 📊 dashboard.pbix          # Power BI project file
  ┣ 📸 dashboard.jpg           # Dashboard snapshot
